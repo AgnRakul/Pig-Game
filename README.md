@@ -2,4 +2,4 @@
 Sample Pig Game Using Dom Manupulatios
 
 # Demo 
-https://monkanoo.github.io/Pig-Game/
+https://gentle-gingersnap-c0e047.netlify.app/
